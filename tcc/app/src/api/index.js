@@ -1,0 +1,6 @@
+export {useAuth} from "./login/login.api"
+export {useUsuario } from "./usuario/usuario.api"
+export {usePosts} from "./postagens/postagens.api"
+export {useAmigos} from "./amigos/amigos.api"
+export {useDesfazerAmizade } from "./desfazer-amizade/desfazer-amizade.api"
+export {usePostar} from "./postar/postar.api"

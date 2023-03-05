@@ -1,0 +1,23 @@
+.postagem{
+ 
+    flex-direction: row;
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+}
+
+.imagem-post{
+    width: 100%;
+    height: 350px;
+}
+
+.botao-postagem{
+    width: 80px;
+    height: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 0px;
+    background-color: rgb(162, 119, 201);
+    color: white;
+}

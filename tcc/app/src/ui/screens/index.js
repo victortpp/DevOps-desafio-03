@@ -1,0 +1,5 @@
+export { LoginScreen } from "./login/login.screen"
+export { CadastroScreen } from "./cadastro/cadastro.screen"
+export { PerfilScreen } from "./perfil/perfil.screen"
+export {AmigosScreen } from "./amigos/amigos.screen"
+export { PostarScreen} from "./postar/postar.screen"
